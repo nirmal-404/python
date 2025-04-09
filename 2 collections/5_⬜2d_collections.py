@@ -23,7 +23,7 @@ for collection in groceries:
     print()
 
 
-tuples
+# tuples
 
 groceries = (
     ("apple", "orange", "banana", "coconut"), 

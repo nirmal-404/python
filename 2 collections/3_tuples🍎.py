@@ -3,8 +3,8 @@
 
 fruits= ("apple", "orange", "banana", "pineapple")
 
-# print(dir(fruits))
-# print(help(fruits))
+print(dir(fruits))
+print(help(fruits))
 
 print(f"Length: {len(fruits)}")
 

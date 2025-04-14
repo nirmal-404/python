@@ -1,14 +1,15 @@
 import os
 
 topics = [
-    # "name1 name2" => "name1_name2.py"
+    # "",
+    # ""
 ]
 
-# Starting index (change this to whatever number you want)
-start_index = 5
+# Starting index
+start_index = 1
 
-# Set your target directory
-output_dir = r"/9 PyQt5 GUI"
+# Safe relative path
+output_dir = os.path.join(os.getcwd(), "10 final projects")
 
 os.makedirs(output_dir, exist_ok=True)
 

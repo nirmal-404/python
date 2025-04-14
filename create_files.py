@@ -2,14 +2,13 @@ import os
 
 topics = [
     # "name1 name2" => "name1_name2.py"
-    "test"
 ]
 
 # Starting index (change this to whatever number you want)
-start_index = 1
+start_index = 5
 
 # Set your target directory
-output_dir = r"D:\desktop files\my projects\python-learning"
+output_dir = r"/9 PyQt5 GUI"
 
 os.makedirs(output_dir, exist_ok=True)
 
